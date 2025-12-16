@@ -12,8 +12,8 @@ importers:
         specifier: ^1.20.2
         version: 1.20.2
       dotenv:
-        specifier: ^16.3.1
-        version: 16.3.1
+        specifier: ^16.6.1
+        version: 16.6.1
       express:
         specifier: ^4.18.2
         version: 4.18.2
@@ -80,8 +80,8 @@ packages:
     resolution: {integrity: sha512-2sJGJTaXIIaR1w4iJSNoN0hnMY7Gpc/n8D4qSCJw8QqFWXf7cuAgnEHxBpweaVcPevC2l3KpjYCx3NypQQgaJg==}
     engines: {node: '>= 0.8', npm: 1.2.8000 || >= 1.4.16}
 
-  dotenv@16.3.1:
-    resolution: {integrity: sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ==}
+  dotenv@16.6.1:
+    resolution: {integrity: sha512-uBq4egWHTcTt33a72vpSG0z3HnPuIl6NqYcTrKEg2azoEyl2hpW0zqlxysq2pK9HlDIHyHyakeYaYnSAwd8bow==}
     engines: {node: '>=12'}
 
   ee-first@1.1.1:
@@ -349,7 +349,7 @@ snapshots:
 
   destroy@1.2.0: {}
 
-  dotenv@16.3.1: {}
+  dotenv@16.6.1: {}
 
   ee-first@1.1.1: {}
 
